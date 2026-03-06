@@ -1,0 +1,14 @@
+# environment
+.venv/
+venv/
+env/
+.env
+.env.*
+__pycache__/
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+*.py[cod]
+
