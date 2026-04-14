@@ -13,6 +13,7 @@ flatbuffers==25.12.19
 fonttools==4.61.1
 gast==0.7.0
 google-pasta==0.2.0
+graphviz==0.21
 grpcio==1.78.0
 h5py==3.14.0
 idna==3.11
